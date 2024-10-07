@@ -3,3 +3,5 @@ const value1 = {
     age : 63478
 }
 console.log(value1["name"])
+
+console.log(value1.name)
