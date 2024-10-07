@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.todo-1{
+    width: 1000px;
+    background-color: blue;
+    color: white;
+    margin: auto;
+    margin-top: 50px;
+}
+.todo-4{
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+}
